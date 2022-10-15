@@ -6,15 +6,23 @@
 
 #### Languages and Tools
 <p align="center">
-  <img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/linux-515151.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="JS" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TS" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-9B6811.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="JS" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TS" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 <p align="center">
