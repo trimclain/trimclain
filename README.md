@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=tokyonight&langs_count=5&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=trimclain&theme=tokyonight&hide=stars" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=tokyonight&langs_count=5&layout=compact" />
 </p>
 
 #### Tools
