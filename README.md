@@ -14,13 +14,6 @@
   <img alt="Neovim" src="https://img.shields.io/badge/neovim-4E8639.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
-#### Languages
-<p align="left">
-  <img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-9B6811.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
 #### Backend
 <p align="left">
   <img alt="Node" src="https://img.shields.io/badge/node-263B27.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -37,6 +30,13 @@
   <img alt="TS" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+</p>
+
+#### Others
+<p align="left">
+  <img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-9B6811.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
