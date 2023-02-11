@@ -1,12 +1,36 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trimclain&theme=tokyonight&hide=stars&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=tokyonight&langs_count=5&layout=compact&card_width=200" />
+  <!--One of the ways to make responsive themes-->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=tokyonight&hide=stars&show_icons=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=buefy&hide=stars&show_icons=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=trimclain&hide=stars&show_icons=true&count_private=true"/>
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=tokyonight&langs_count=5&layout=compact&card_width=200"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=buefy&langs_count=5&layout=compact&card_width=200"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclaint&langs_count=5&layout=compact&card_width=200"/>
+  </picture>
 </p>
 
+<!-- Find Logos: https://github.com/badges/shields/blob/master/doc/logos.md -->
 #### Tools
 <p align="left">
   <img alt="Linux" src="https://img.shields.io/badge/linux-515151.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+  <img alt="Arch" src="https://shields.io/badge/arch-1793D1.svg?&style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img alt="AwesomeWM" src="https://img.shields.io/badge/awesome-535D6C.svg?&style=for-the-badge&logo=awesomewm&logoColor=white"/>
   <img alt="Alacritty" src="https://img.shields.io/badge/alacritty-F46D01.svg?&style=for-the-badge&logo=alacritty&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/bash-272E35.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
@@ -28,8 +52,9 @@
   <img alt="CSS" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
   <img alt="JS" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TS" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"/>
+  <img alt="Vue" src="https://shields.io/badge/vue-47C7A2.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
 
 #### Others
