@@ -71,9 +71,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=trimclain&theme=tokyonight" />
 </p>
 
+<!--- TODO: fix colorscheme
 <p align="center">
   <img src="https://raw.githubusercontent.com/trimclain/trimclain/output/github-contribution-grid-snake.svg" />
 </p>
+-->
 
 <!---
 - 🔭 I’m currently working on ...
