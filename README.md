@@ -6,11 +6,11 @@
   <!--One of the ways to make responsive themes-->
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=tokyonight&hide=stars&show_icons=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=tokyonight&show_icons=true&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=buefy&hide=stars&show_icons=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=buefy&show_icons=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=trimclain&hide=stars&show_icons=true&count_private=true"/>
