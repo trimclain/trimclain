@@ -6,26 +6,26 @@
   <!--One of the ways to make responsive themes-->
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=tokyonight&show_icons=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=tokyonight&show_icons=true&rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=buefy&show_icons=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=buefy&show_icons=true&rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=trimclain&hide=stars&show_icons=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=trimclain&show_icons=true&rank_icon=github"/>
   </picture>
   
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=tokyonight&langs_count=5&layout=compact&card_width=200"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=buefy&langs_count=5&layout=compact&card_width=200"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=buefy&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclaint&langs_count=5&layout=compact&card_width=200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclaint&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200"/>
   </picture>
 </p>
 
@@ -76,14 +76,6 @@
   <img src="https://raw.githubusercontent.com/trimclain/trimclain/output/github-contribution-grid-snake.svg" />
 </p>
 -->
-
-<!---
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--- TODO: in case I need more than 6 pins
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
