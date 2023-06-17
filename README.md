@@ -25,7 +25,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=buefy&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclaint&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200"/>
   </picture>
 </p>
 
