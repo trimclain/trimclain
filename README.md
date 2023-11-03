@@ -47,24 +47,25 @@
   <img alt="Express" src="https://img.shields.io/badge/express-2B2B2B.svg?&style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-9B6811.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 #### Frontend
 <p align="left">
   <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
-  <img alt="JS" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TS" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  
   <img alt="React" src="https://img.shields.io/badge/react-50B5D0?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"/>
   <img alt="Vue" src="https://shields.io/badge/vue-47C7A2.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
 
-#### Others
+#### Languages
 <p align="left">
-  <img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-9B6811.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+  <img alt="JS" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TS" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Julia" src="https://img.shields.io/badge/julia-9558B2.svg?&style=for-the-badge&logo=julia&logoColor=white"/>
 </p>
 
