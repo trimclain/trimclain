@@ -41,7 +41,7 @@
   <!-- I'm sorry I had to -->
   <a href="https://www.youtube.com/watch?v=1UXHsCT18wE" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" /> </a>
   <!-- Windows Sucks -->
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> <img src="https://skillicons.dev/icons?i=windows" /> </a>
+  <a href="https://www.youtube.com/shorts/KwumF1jmWAw" target="_blank"> <img src="https://skillicons.dev/icons?i=windows" /> </a>
 </p>
 
 <h4 align="center">Backend</h4>
