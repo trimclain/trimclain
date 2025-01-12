@@ -1,31 +1,35 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+use+Arch+btw" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+use+arch+btw" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <!--One of the ways to make responsive themes-->
+  <!-- Github Stats -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=tokyonight&show_icons=true&rank_icon=github"
+      srcset="https://my-github-readme-stats-dusky.vercel.app/api?username=trimclain&theme=tokyonight&show_icons=true&rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=trimclain&theme=buefy&show_icons=true&rank_icon=github"
+      srcset="https://my-github-readme-stats-dusky.vercel.app/api?username=trimclain&theme=buefy&show_icons=true&rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=trimclain&show_icons=true&rank_icon=github"/>
+    <img src="https://my-github-readme-stats-dusky.vercel.app/api?username=trimclain&show_icons=true&rank_icon=github"/>
   </picture>
 
+  <!-- Top Languages -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200"
+      srcset="https://my-github-readme-stats-dusky.vercel.app/api/top-langs/?username=trimclain&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200&hide=jupyter%20notebook"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&theme=buefy&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200"
+      srcset="https://my-github-readme-stats-dusky.vercel.app/api/top-langs/?username=trimclain&theme=buefy&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200&hide=jupyter%20notebook"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimclain&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200"/>
+    <img src="https://my-github-readme-stats-dusky.vercel.app/api/top-langs/?username=trimclain&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=200&hide=jupyter%20notebook"/>
   </picture>
 </p>
 
@@ -74,8 +78,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" /> </a>
 </p>
 
+<!-- Github Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=trimclain&theme=tokyonight" />
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats-sigma-puce.vercel.app?user=trimclain&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
 <!--- TODO: fix colorscheme
@@ -83,6 +90,159 @@
   <img src="https://raw.githubusercontent.com/trimclain/trimclain/output/github-contribution-grid-snake.svg" />
 </p>
 -->
-<!--- TODO: in case I need more than 6 pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+<!-- Github Extra Pins -->
+<!-- 1 -->
+<p align="center">
+  <a href="https://github.com/getnf/getnf" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=getnf&repo=getnf&theme=tokyonight&show_owner=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=getnf&repo=getnf&theme=tokyonight&show_owner=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=.dotfiles"/>
+    </picture>
+  </a>
+
+  <a href="https://github.com/trimclain/builder.nvim" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=builder.nvim&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=builder.nvim&theme=buefy"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=builder.nvim"/>
+    </picture>
+  </a>
+</p>
+
+<!-- 2 -->
+<p align="center">
+  <a href="https://github.com/trimclain/.dotfiles" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=.dotfiles&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=.dotfiles&theme=buefy"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=.dotfiles"/>
+    </picture>
+  </a>
+
+  <a href="https://github.com/trimclain/ncm" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=ncm&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=ncm&theme=buefy"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=ncm"/>
+    </picture>
+  </a>
+</p>
+
+<!-- 3 -->
+<p align="center">
+  <a href="https://github.com/trimclain/wdt" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=wdt&theme=tokyonight&description_lines_count=1"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=wdt&theme=buefy"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=wdt"/>
+    </picture>
+  </a>
+
+  <a href="https://github.com/trimclain/simple-converter" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=simple-converter&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=simple-converter&theme=buefy"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=simple-converter"/>
+    </picture>
+  </a>
+</p>
+
+<!-- 4 -->
+<p align="center">
+  <a href="https://github.com/trimclain/ytd" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=ytd&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=ytd&theme=buefy"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=ytd"/>
+    </picture>
+  </a>
+
+  <a href="https://github.com/trimclain/yev" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=yev&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=yev&theme=buefy"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=yev"/>
+    </picture>
+  </a>
+</p>
+
+<!-- 5 -->
+<p align="center">
+  <a href="https://github.com/trimclain/archinstall" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=archinstall&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=archinstall&theme=buefy"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=archinstall"/>
+    </picture>
+  </a>
+
+  <a href="https://github.com/trimclain/pctl" target="_blank">
+    <picture>
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=pctl&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=pctl&theme=buefy"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=pctl"/>
+    </picture>
+  </a>
+</p>
