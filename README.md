@@ -85,11 +85,12 @@
   </a>
 </p>
 
-<!--- TODO: fix colorscheme
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trimclain/trimclain/output/github-contribution-grid-snake.svg" />
-</p>
--->
+<!-- Snake Game: https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trimclain/trimclain/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trimclain/trimclain/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/trimclain/trimclain/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- Github Extra Pins -->
 <!-- 1 -->
