@@ -105,7 +105,7 @@
         srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=getnf&repo=getnf&theme=tokyonight&show_owner=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=trimclain&repo=.dotfiles"/>
+      <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=getnf&repo=getnf"/>
     </picture>
   </a>
 
