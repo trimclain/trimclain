@@ -102,7 +102,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=getnf&repo=getnf&theme=tokyonight&show_owner=true"
+        srcset="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=getnf&repo=getnf&theme=buefy&show_owner=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://my-github-readme-stats-dusky.vercel.app/api/pin/?username=getnf&repo=getnf"/>
