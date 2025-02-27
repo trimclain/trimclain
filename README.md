@@ -64,7 +64,8 @@
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://skillicons.dev/icons?i=html" /> </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" /> </a>
   <a href="https://react.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" /> </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=gatsby" /> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nextjs" /> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" /> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=vue" /> </a>
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>
 </p>
@@ -74,8 +75,10 @@
   <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=py" /> </a>
   <a href="https://www.lua.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=lua" /> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://skillicons.dev/icons?i=bash" /> </a>
+  <a href="https://github.com/PowerShell/PowerShell" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" /> </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" /> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" /> </a>
+  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=latex" /> </a>
 </p>
 
 <!-- Github Streak Stats -->
