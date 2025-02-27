@@ -52,7 +52,7 @@
 <p align="center">
   <a href="https://nodejs.org/en" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>
   <a href="https://expressjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=express" /> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" /> </a>
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" /> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" /> </a>
   <a href="https://nginx.org/en/" target="_blank"> <img src="https://skillicons.dev/icons?i=nginx" /> </a>
   <a href="https://www.vim.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=vim" /> </a>
